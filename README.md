@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming/Coding
 - 🌱 I’m currently learning ... ASP.NET, Android, Swift, Laravel
 - 💞️ I’m looking to collaborate on ... Big Projects
-- 📫 How to reach me ... bluewalkerz.programmer@gmail.com
+- 📫 How to reach me ... abdullahq12345@gmail.com
 
 <!---
 BlueWalkerz/BlueWalkerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
